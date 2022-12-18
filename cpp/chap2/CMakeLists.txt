@@ -1,1 +1,2 @@
 add_subdirectory(down_sampling)
+add_subdirectory(outliner_remove)
